@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kaasiprasanth.github.io/PORTFOLIO/](https://kaasiprasanth.github.io/PORTFOLIO/)
 
-- 💬 Ask me about **DSA, Java, AI/ML**
+- 💬 Ask me about **DSA, Java, AI/ML, Web Scraping, Image Processing**
 
 - 📫 How to reach me **kaasiprasanth.a2020cse@sece.ac.in**
 

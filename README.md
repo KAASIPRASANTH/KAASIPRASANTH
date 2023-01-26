@@ -21,8 +21,7 @@
 - 💬 Ask me about **DSA, Java, AI/ML, Web Scraping, Image Processing**
 
 - 📫 How to reach me **kaasiprasanth.a2020cse@sece.ac.in**
-
-- 📄 CV [https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link](https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link)
+- 📄 Know about my experiences [KAASIPRASANTH_A_CV](https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

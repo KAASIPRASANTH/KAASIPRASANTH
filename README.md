@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kaasiprasanth.a2020cse@sece.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link](https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link)
+- 📄 CV [https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link](https://drive.google.com/file/d/1NmhXO1F812Oa73pc8M45ZxD_3wAMxtYz/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
